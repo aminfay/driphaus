@@ -1,0 +1,21 @@
+{
+  "name": "driphaus",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@solana/web3.js": "^1.77.3",
+    "bs58": "^5.0.0",
+    "chalk": "^4.1.2",
+    "node-cron": "^3.0.2",
+    "node-fetch": "^2.6.0",
+    "tweetnacl": "^1.0.3",
+    "tweetnacl-util": "^0.15.1"
+  }
+}
